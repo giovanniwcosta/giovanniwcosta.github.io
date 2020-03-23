@@ -1,0 +1,22 @@
+.menu{
+  background:rgb(0,0,0);
+
+}
+
+.home{
+  margin-left: 2vw;
+}
+
+.menu a{
+  text-decoration: none;
+  font-size: 2.5vw;
+  color:rgb(255,255,255);
+  padding-left: 1.5vw;
+  padding-right:1.5vw;
+}
+
+.menu a:hover{
+  background-color: rgba(255,255,255,0.5);
+  border-radius: 0.5vw;
+  transition-duration: 0.4s;
+}
